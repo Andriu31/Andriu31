@@ -1,5 +1,5 @@
 # 💫 About Me:
- ¡Hola! Soy un programador joven con muchas ganas de aprender<br>Me apasiona el mundo de la programación y cada línea de código <br>que escribo es una oportunidad para crecer, mejorar y desafiar mis <br>propios límites. Siempre estoy buscando nuevos retos y experiencias <br>que me permitan seguir desarrollándome tanto personal como profesionalmente.
+ ¡Hola! Soy un programador joven con muchas ganas de aprender me apasiona el mundo de la programación y cada línea de código que escribo es una oportunidad para crecer, mejorar y desafiar mis propios límites. Siempre estoy buscando nuevos retos y experiencias que me permitan seguir desarrollándome tanto personal como profesionalmente.
 
 
 ## 🌐 Socials:
